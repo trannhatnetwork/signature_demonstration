@@ -101,3 +101,5 @@ Không, trừ khi kẻ giả mạo:
 Chữ ký số là **nền tảng bảo mật cho email, phần mềm, blockchain, hợp đồng số, v.v.**
 
 ---
+
+📌 *Phần tiếp theo: [Bài tập thực hành – Ký và xác minh chữ ký ECDSA trong Python](sign_verifi.py)*
